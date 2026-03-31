@@ -7,12 +7,12 @@
 
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.skystone.MainMenuController">
    <children>
-      <Button layoutX="358.0" layoutY="259.0" mnemonicParsing="false" onAction="#onClickSearchButton" prefHeight="25.0" prefWidth="565.0" text="Névkeresés">
+      <Button layoutX="358.0" layoutY="259.0" mnemonicParsing="false" onAction="#onClickSearchSceneButton" prefHeight="25.0" prefWidth="565.0" text="Névkeresés">
          <font>
             <Font size="18.0" />
          </font>
       </Button>
-      <Button layoutX="358.0" layoutY="557.0" mnemonicParsing="false" onAction="#onClickAboutButton" prefHeight="25.0" prefWidth="565.0" text="Névjegy">
+      <Button layoutX="358.0" layoutY="557.0" mnemonicParsing="false" onAction="#onClickAboutSceneButton" prefHeight="25.0" prefWidth="565.0" text="Névjegy">
          <font>
             <Font size="18.0" />
          </font>

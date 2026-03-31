@@ -6,12 +6,12 @@ import javafx.fxml.FXML;
 public class MainMenuController {
 
     @FXML
-    void onClickAboutButton(ActionEvent event) {
+    void onClickAboutSceneButton(ActionEvent event) {
         App.setRoot("aboutScene");
     }
 
     @FXML
-    void onClickSearchButton(ActionEvent event) {
+    void onClickSearchSceneButton(ActionEvent event) {
         App.setRoot("searchScene");
     }
 

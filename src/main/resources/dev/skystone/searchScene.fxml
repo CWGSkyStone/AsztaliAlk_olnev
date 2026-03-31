@@ -6,7 +6,6 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.skystone.SearchController">
    <children>
       <Button layoutX="241.0" layoutY="642.0" mnemonicParsing="false" onAction="#onClickBackButton" prefHeight="25.0" prefWidth="775.0" text="Vissza">
@@ -36,7 +35,7 @@
             <Font size="20.0" />
          </font>
       </Label>
-      <Label fx:id="countNameLabel" layoutX="662.0" layoutY="6.0" text="Label">
+      <Label fx:id="countNameLabel" layoutX="749.0" layoutY="6.0" text="Label">
          <font>
             <Font size="20.0" />
          </font>

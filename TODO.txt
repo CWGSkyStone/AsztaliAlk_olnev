@@ -1,0 +1,12 @@
+TODO: Kilépés gomb
+TODO: Keresés kisbetűvel is működjön
+TODO: Enterrel is induljon a keresés
+TODO: Nem elérhető névre figyelmeztetés
+TODO: Olasz névre - magyar nevet
+TODO: Névjegy
+TODO: Kötöjel helyett egyéb szöveg
+TODO: Keresésnek stílus
+TODO: CRUD művelet a szavakhoz
+TODO: Adatbázis használat
+TODO: Ikon készítés
+TODO: Weboldal

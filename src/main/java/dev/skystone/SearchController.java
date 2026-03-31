@@ -34,6 +34,8 @@ public class SearchController {
         for(NameDict nameDict : App.nameDictList){
             if(searchHuName.equals(nameDict.getHuName())){
                 itNameField.setText(nameDict.getItName());
+            }else if(!searchHuName.equals(nameDict.getHuName())){
+                itNameField.setText("-");
             }
         }
     }
